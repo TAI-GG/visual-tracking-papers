@@ -20,6 +20,8 @@
 
 **Generated / 生成日期:** 2026-06-22
 
+![Cover / 封面](infographics/infographic-01-cover-20260622.png)
+
 ---
 
 ## Paper Summary Table / 论文汇总表
