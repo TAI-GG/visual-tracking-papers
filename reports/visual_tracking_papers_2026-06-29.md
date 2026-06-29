@@ -1,16 +1,4 @@
-# Visual Tracking Papers
-
-> A curated collection of recent academic papers on **Visual Object Tracking (VOT)**, updated weekly.
->
-> 视觉目标跟踪（VOT）最新学术论文精选，每周更新。
-
-**Covering / 覆盖方向:** Single Object Tracking (SOT) · Multi-Object Tracking (MOT) · 3D/4D Tracking · Multimodal Tracking (RGB-T, RGB-Event, Audio-Visual) · Edge Deployment · Datasets & Benchmarks
-
-**Sources / 来源:** arXiv (cs.CV) · CVPR · ECCV · ICCV · NeurIPS · AAAI
-
----
-
-## Latest Report / 最新报告
+# Weekly Report: Visual Object Tracking Papers / 视觉目标跟踪论文周报
 
 **Report Period / 报告周期:** 2026-06-22 ~ 2026-06-29
 
@@ -267,33 +255,3 @@
 
 *Report generated automatically by QoderWork. Papers sourced from arXiv API and web searches, covering June 22-29, 2026.*
 *本报告由 QoderWork 自动生成，数据来源于 arXiv API 和网络搜索，覆盖2026年6月22日至29日。*
-
----
-
-## Archive / 历史报告
-
-Complete reports are also saved in the [`reports/`](./reports/) directory.
-
-| Date | Report | Description |
-|------|--------|-------------|
-| 2026-06-29 | [visual_tracking_papers_2026-06-29.md](./reports/visual_tracking_papers_2026-06-29.md) | Weekly report covering June 22–29, 2026 (arXiv + CVPR 2026 + ECCV 2026, 16 papers) |
-| 2026-06-22 | [visual_tracking_papers_2026-06-22.md](./reports/visual_tracking_papers_2026-06-22.md) | Weekly report covering June 1–22, 2026 (arXiv + Google Scholar, CVPR/ICML/IROS/AVSS/RO-MAN papers) |
-| 2026-06-17 | [visual_tracking_papers_2026-06-17.md](./reports/visual_tracking_papers_2026-06-17.md) | Weekly report covering June 10–17, 2026 (arXiv + Google Scholar, with infographics) |
-
----
-
-## Contributing / 参与贡献
-
-Contributions are welcome! Feel free to submit a pull request with additional papers or corrections.
-
-欢迎贡献！您可以通过提交 Pull Request 来补充论文或修正内容。
-
-## License / 许可
-
-This repository is for academic research purposes. All papers are property of their respective authors.
-
-本仓库仅供学术研究使用。所有论文版权归各作者所有。
-
----
-
-*Updated by QoderWork / 由 QoderWork 自动更新*
