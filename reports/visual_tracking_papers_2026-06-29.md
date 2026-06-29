@@ -5,6 +5,7 @@
 **Sources / 数据来源:** arXiv (cs.CV), Google Scholar, CVPR 2026, ECCV 2026
 
 **Generated / 生成日期:** 2026-06-29
+![Cover / 封面](../infographics/infographic-01-cover-20260629.png)
 
 ---
 
